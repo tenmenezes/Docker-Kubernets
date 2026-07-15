@@ -1,6 +1,6 @@
 # ![Docker icon](https://skillicons.dev/icons?i=kubernetes) Meus estudos em Kubernetes
 
-Anotações de introdução ao Kubernetes, organizadas em trilha progressiva. As anotações originais que deram origem a esta estrutura estão em [`01-introducao-kubernetes.md`](./01-introducao-kubernetes.md).
+Anotações de introdução ao Kubernetes, organizadas em trilha progressiva.
 
 ## Mapa da trilha
 
